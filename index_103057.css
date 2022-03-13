@@ -1,0 +1,25 @@
+
+body{
+	border:18px solid;
+	margin-top:15px;
+	margin-left:15px;
+	margin-rigth:15px;
+	border-color:#99CC99;
+	border:solid;
+	bckground:999999;
+	
+}
+
+p{
+				margin-left:40px;
+				margin-rigth:40px;
+				text-aligin:justify;
+				font-size:25px;
+				
+}
+img{
+border-style:dashed;
+border-width:8px;
+border-color: #CC9900;
+border-radius:8px;
+}
